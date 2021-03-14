@@ -1,0 +1,28 @@
+html body
+{
+background-color:black;
+color:white;
+font-family: 'Stick', sans-serif;
+}
+
+img
+{
+    border-radius: 100%;
+}
+
+#root
+{
+    margin:20px;
+}
+
+.material-icons.md-48 { font-size: 48px; }
+
+h1
+{
+display: inline-block;
+}
+
+.info
+{
+    font-family: 'Akaya Telivigala', cursive;
+}
